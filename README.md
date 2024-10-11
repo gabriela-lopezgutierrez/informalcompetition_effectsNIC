@@ -1,7 +1,7 @@
 # informalcompetition_effectsNIC
 
 # About the repository:
-Contains the codes and results associated with the research article "Analyzing heterogeneous effects: How competition by informal firms affects firms’ productivity in Nicaragua". Research published in REICE: https://revistas.unan.edu.ni/index.php/reice/article/view/4555/6961
+Contains the codes and results associated with the research article "Analyzing heterogeneous effects: How competition by informal firms affects firms’ productivity in Nicaragua". Research article published in REICE: https://revistas.unan.edu.ni/index.php/reice/article/view/4555/6961
 
 # Instructions:
 
